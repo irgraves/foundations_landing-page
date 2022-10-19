@@ -2,7 +2,7 @@ body {
     display: flex;
     flex-direction: column;
 }
-.header {
+.header, .footer, .hero {
     display: flex;
     background-color: #1F2937;
     color: white;
@@ -10,4 +10,10 @@ body {
 a {
     text-decoration: none;
     color: white;
+}
+.headerlogo {
+    font-size: 24px;
+}
+.link {
+    font-weight: 18px;
 }
