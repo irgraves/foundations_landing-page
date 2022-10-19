@@ -13,7 +13,37 @@ a {
 }
 .headerlogo {
     font-size: 24px;
+    color: #F9FAF8
 }
-.link {
-    font-weight: 18px;
+.heromain {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+.headerlink, .herosecondary {
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB
+}
+.infoheader {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.quote {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+    background-color: #E5E7EB;
+}
+button {
+    color: #3882F6
+}
+.call {
+    background-color: #3882F6;
+}
+.footer {
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
 }
