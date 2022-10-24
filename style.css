@@ -19,12 +19,20 @@ a {
 .header {
     justify-content: space-between;
 }
+.hero {
+    padding-bottom: 150px;
+    justify-content: space-between;
+}
 .heromain {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
 }
+.herotext{
+    width: 500px
+}
 .image1 {
+    display: flex;
     height: 300px;
     width: 700px;
 }
