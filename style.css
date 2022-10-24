@@ -16,12 +16,11 @@ a {
     font-size: 24px;
     color: #F9FAF8
 }
-.header {
+.hero, .header{
+    padding-bottom: 125px;
     justify-content: space-between;
-}
-.hero {
-    padding-bottom: 150px;
-    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 .heromain {
     font-size: 48px;
@@ -76,6 +75,9 @@ a {
 button {
     color:#F9FAF8;
     background-color: #3882F6;
+    padding: 15px 32px;
+    font-size: large;
+    border: 5px white;
 }
 .call {
     display: flex;
