@@ -24,6 +24,10 @@ a {
     font-weight: bolder;
     color: #F9FAF8;
 }
+.image1 {
+    height: 300px;
+    width: 700px;
+}
 .headerlink, .herosecondary {
     display: flex;
     font-size: 18px;
@@ -41,7 +45,6 @@ a {
     padding-bottom: 100px;
     margin-left: 250px;
     margin-right: 250px;
-    border: 5px #3882F6;
 }
 .infoheader {
     font-size: 36px;
@@ -90,10 +93,8 @@ div {
 }
 
 img {
-    
     height: 200px;
     width: 200px;
-    border-color:#3882F6;
 }
 .img {
     display: flex;
